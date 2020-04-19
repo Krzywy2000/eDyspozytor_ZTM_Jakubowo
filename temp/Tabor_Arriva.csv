@@ -1,0 +1,75 @@
+﻿id;marka;model;rok_produkcji;rok_wprowadzenia;numer_taborowy;zajezdnia;czy_niskopodlogowy;czy_klima;czy_biletomat;typ_taboru;typ;przewoźnik;uwagi;rysunek
+7;Solaris;Urbino 12 IV;2016;2019;A101;Arriva;TAK;TAK;NIE;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+8;Solaris;Urbino 12 IV;2016;2019;A102;Arriva;TAK;TAK;NIE;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+9;Solaris;Urbino 12 IV;2016;2019;A103;Arriva;TAK;TAK;NIE;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+10;Solaris;Urbino 12 IV;2016;2019;A104;Arriva;TAK;TAK;NIE;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+11;Solaris;Urbino 12 IV;2016;2019;A105;Arriva;TAK;TAK;NIE;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+12;Solaris;Urbino 12 IV;2016;2019;A106;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+13;Solaris;Urbino 12 IV;2016;2019;A107;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+14;Solaris;Urbino 12 IV;2016;2019;A108;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+15;Solaris;Urbino 12 IV;2016;2019;A109;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+16;Solaris;Urbino 12 IV;2016;2019;A110;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+17;Solaris;Urbino 12 IV;2016;2019;A111;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+18;Solaris;Urbino 12 IV;2016;2019;A112;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. Warbus;12x Solaris Urbino 12 IV
+19;Hunter;ModernCity 12 IV LF CNG;2019;2019;A113;Arriva;TAK;TAK;NIE;MAXI;AUTOBUS;Arriva;ex. testowy;1x Hunter ModernCity 12 IV LF CNG
+20;Pavlov;FutureBus 2 MAXI;2017;2020;A114;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+21;Pavlov;FutureBus 2 MAXI;2017;2020;A115;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+22;Pavlov;FutureBus 2 MAXI;2017;2020;A116;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+23;Pavlov;FutureBus 2 MAXI;2017;2020;A117;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+24;Pavlov;FutureBus 2 MAXI;2017;2020;A118;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+25;Pavlov;FutureBus 2 MAXI;2017;2020;A119;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+26;Pavlov;FutureBus 2 MAXI;2017;2020;A120;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+27;Pavlov;FutureBus 2 MAXI;2017;2020;A121;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+28;Pavlov;FutureBus 2 MAXI;2017;2020;A122;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+29;Pavlov;FutureBus 2 MAXI;2017;2020;A123;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+30;Pavlov;FutureBus 2 MAXI;2017;2020;A124;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+31;Pavlov;FutureBus 2 MAXI;2017;2020;A125;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+32;Pavlov;FutureBus 2 MAXI;2017;2020;A126;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+33;Pavlov;FutureBus 2 MAXI;2017;2020;A127;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+34;Pavlov;FutureBus 2 MAXI;2017;2020;A128;Arriva;TAK;TAK;TAK;MAXI;AUTOBUS;Arriva;ex. KDD;15x Pavlov FutureBus 2 MAXI
+35;MAN;Lion's City GL NG323;2008;2019;A201;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+36;MAN;Lion's City GL NG323;2008;2019;A202;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+37;MAN;Lion's City GL NG323;2008;2019;A203;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+38;MAN;Lion's City GL NG323;2008;2019;A204;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+39;MAN;Lion's City GL NG323;2008;2019;A205;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+40;MAN;Lion's City GL NG323;2008;2019;A206;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+41;MAN;Lion's City GL NG323;2008;2019;A207;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+42;MAN;Lion's City GL NG323;2008;2019;A208;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+43;MAN;Lion's City GL NG323;2008;2019;A209;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+44;MAN;Lion's City GL NG323;2008;2019;A210;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Oslo;10x MAN Lion_s City GL NG323
+45;MAN;Lion's City G NG273 LPG;2010;2019;A211;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+46;MAN;Lion's City G NG273 LPG;2010;2019;A212;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+47;MAN;Lion's City G NG273 LPG;2010;2019;A213;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+48;MAN;Lion's City G NG273 LPG;2010;2019;A214;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+49;MAN;Lion's City G NG273 LPG;2010;2019;A215;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+50;MAN;Lion's City G NG273 LPG;2010;2019;A216;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+51;MAN;Lion's City G NG273 LPG;2010;2019;A217;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+52;MAN;Lion's City G NG273 LPG;2010;2019;A218;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. Wiener Linien;8x MAN Lion_s City G NG273 LPG
+53;Pavlov;FutureBus 2 MEGA;2017;2019;A219;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;5x Pavlov FutureBus 2 MEGA
+54;Pavlov;FutureBus 2 MEGA;2017;2019;A220;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;5x Pavlov FutureBus 2 MEGA
+55;Pavlov;FutureBus 2 MEGA;2017;2019;A221;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;5x Pavlov FutureBus 2 MEGA
+56;Pavlov;FutureBus 2 MEGA;2017;2019;A222;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;5x Pavlov FutureBus 2 MEGA
+57;Pavlov;FutureBus 2 MEGA;2017;2019;A223;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;5x Pavlov FutureBus 2 MEGA
+58;Hunter;ModernCity II 18 LF;2016;2019;A224;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;2x Hunter ModernCity 18 II LF
+59;Hunter;ModernCity II 18 LF;2016;2019;A225;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. KDD;2x Hunter ModernCity 18 II LF
+60;Hunter;ModernCity 18 IV LF CNG;2018;2019;A226;Arriva;TAK;TAK;NIE;MEGA;AUTOBUS;Arriva;ex. testowy;1x Hunter ModernCity 18 IV LF CNG
+61;Hunter;ModernCity 18 IV LF;2019;2019;A227;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;-;5x Hunter ModernCity 18 IV LF
+62;Hunter;ModernCity 18 IV LF;2019;2019;A228;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;-;5x Hunter ModernCity 18 IV LF
+63;Hunter;ModernCity 18 IV LF;2019;2019;A229;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;-;5x Hunter ModernCity 18 IV LF
+64;Hunter;ModernCity 18 IV LF;2019;2019;A230;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;-;5x Hunter ModernCity 18 IV LF
+65;Hunter;ModernCity 18 IV LF;2019;2019;A231;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;-;5x Hunter ModernCity 18 IV LF
+66;Neoplan;N4522;2008;2020;A232;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+67;Neoplan;N4522;2008;2020;A233;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+68;Neoplan;N4522;2008;2020;A234;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+69;Neoplan;N4522;2008;2020;A235;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+70;Neoplan;N4522;2008;2020;A236;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+71;Neoplan;N4522;2008;2020;A237;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+72;Neoplan;N4522;2008;2020;A238;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+73;Neoplan;N4522;2008;2020;A239;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+74;Neoplan;N4522;2008;2020;A240;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+75;Neoplan;N4522;2008;2020;A241;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+76;Neoplan;N4522;2008;2020;A242;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+77;Neoplan;N4522;2008;2020;A243;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+78;Neoplan;N4522;2008;2020;A244;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+79;Neoplan;N4522;2008;2020;A245;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522
+80;Neoplan;N4522;2008;2020;A246;Arriva;TAK;TAK;TAK;MEGA;AUTOBUS;Arriva;ex. Dubaj;15x Neoplan N4522

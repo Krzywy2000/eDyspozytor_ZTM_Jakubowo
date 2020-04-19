@@ -1,0 +1,34 @@
+footer {
+    position: absolute;
+    width: 100%;
+    background: rgb(136, 173, 0);
+    text-decoration: none;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    bottom: initial;
+}
+
+.footer__left {
+    color: rgb(224, 224, 224);
+}
+
+.footer__right {
+    font-size: 40px;
+}
+
+.footer__right a {
+    color: rgb(224, 224, 224);
+}
+
+.footer__right a:hover {
+    color: rgb(100, 128, 0) !important;
+}
+
+.footer__left a {
+    color: rgb(224, 224, 224);
+}
+
+.footer__left a:hover {
+    color: rgb(100, 128, 0) !important;
+}

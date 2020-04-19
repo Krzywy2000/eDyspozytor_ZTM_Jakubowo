@@ -1,0 +1,20 @@
+nav {
+    height: 100%;
+}
+
+.logo {
+    width: 100px;
+}
+
+.border__ul {
+    border-bottom: 1px solid silver;
+}
+
+.border__ul:hover {
+    border-bottom: 0px solid;
+}
+
+.border__li:hover {
+    border-bottom: 1px solid rgb(136, 173, 0);
+    color: rgb(136, 173, 0) !important;
+}
